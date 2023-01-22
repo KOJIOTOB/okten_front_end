@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Rubik+Glitch&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgba(0, 154, 120, 0.15);
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    margin-top: 50px;
+    font-family: 'Rubik Glitch', cursive;
+    letter-spacing: 8px;
+}
+
+.container {
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 1300px;
+
+}
+
+.box {
+    width: 300px;
+    height: 400px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    background: white;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+.name_box {
+    font-size: 25px;
+    color: orange;
+}
+
+.description {
+    width: 290px;
+    text-align: center;
+    line-height: 30px;
+    color: gray;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    background: #55c3b6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.btn:hover {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}

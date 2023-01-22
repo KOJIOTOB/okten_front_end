@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf08669-8632-40d7-b404-f1af01db7c80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_2/task_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work_2/task_1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/okten_front_end.iml" afterDir="false" />
+    <list default="true" id="edf08669-8632-40d7-b404-f1af01db7c80" name="Changes" comment="task 1">
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_3/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_4/icons/42697fire_98982.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_4/icons/Death_Star_2nd_35408.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_4/icons/favoritesilver_star_favorite_6337.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_4/icons/location_pin_navigation_destination_maps_icon_131239.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_4/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/icons/another_redis_desktop_manager_icon_161297.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/icons/folder_js_icon_161291.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/icons/folder_react_icon_161285.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/icons/folder_shell_icon_161282.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/icons/gimp_icon_161279.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/icons/mark_text_icon_161276.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/additional/task_5/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/task_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_2/task_2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +58,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kojiotob/IdeaProjects/okten_front_end/home_work_2/additional/task_5/icons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/home_work_2/additional/task_5/icons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/home_work_2/additional/task_5/icons" />
+      <recent name="$PROJECT_DIR$/home_work_2/additional/task_4/icons" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,11 +84,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674326949009</updated>
-      <workItem from="1674326950074" duration="6061000" />
+      <workItem from="1674326950074" duration="19845000" />
+      <workItem from="1674406026998" duration="821000" />
     </task>
+    <task id="LOCAL-00001" summary="task 1">
+      <created>1674389877015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674389877015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1" />
   </component>
 </project>
